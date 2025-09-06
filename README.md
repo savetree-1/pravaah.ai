@@ -21,17 +21,17 @@
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=pravaah.ai&color=brightgreen&style=for-the-badge&label=Repository+Views)
-![GitHub Stars](https://img.shields.io/github/stars/your-username/pravaah.ai?style=for-the-badge&logo=star&color=FFD700)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/pravaah.ai?style=for-the-badge&logo=git&color=32CD32)
-![GitHub Issues](https://img.shields.io/github/issues/your-username/pravaah.ai?style=for-the-badge&logo=github&color=FF4500)
+![GitHub Stars](https://img.shields.io/github/stars/savetree-1/pravaah.ai?style=for-the-badge&logo=star&color=FFD700)
+![GitHub Forks](https://img.shields.io/github/forks/savetree-1/pravaah.ai?style=for-the-badge&logo=git&color=32CD32)
+![GitHub Issues](https://img.shields.io/github/issues/savetree-1/pravaah.ai?style=for-the-badge&logo=github&color=FF4500)
 
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=071028&title_color=00C2A8&icon_color=FFB400&text_color=9AA7BD" />
+<img src="https://github-readme-stats.vercel.app/api?username=savetree-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=071028&title_color=00C2A8&icon_color=FFB400&text_color=9AA7BD" />
 </td>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=071028&stroke=00C2A8&ring=FFB400&fire=FF6B35&currStreakLabel=00C2A8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=savetree-1&theme=tokyonight&hide_border=true&background=071028&stroke=00C2A8&ring=FFB400&fire=FF6B35&currStreakLabel=00C2A8" />
 </td>
 </tr>
 </table>
@@ -1070,10 +1070,10 @@ Events:
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=18&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=800&lines=Revolutionizing+KMRL+Document+Management;Through+Intelligent+AI-Powered+Automation;%F0%9F%9A%87+%E2%9A%A1+%F0%9F%93%84+Together+We+Build+Smarter!+%F0%9F%93%84+%E2%9A%A1+%F0%9F%9A%87" />
 
-[![GitHub](https://img.shields.io/badge/⭐-Star_this_repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/your-username/pravaah.ai)
-[![Watch](https://img.shields.io/badge/👀-Watch_updates-00C2A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/pravaah.ai)
-[![Fork](https://img.shields.io/badge/🍴-Fork_project-FFB400?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/pravaah.ai/fork)
-[![Download](https://img.shields.io/badge/📥-Download_ZIP-FF6B35?style=for-the-badge&logo=download&logoColor=white)](https://github.com/your-username/pravaah.ai/archive/main.zip)
+[![GitHub](https://img.shields.io/badge/⭐-Star_this_repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/savetree-1/pravaah.ai)
+[![Watch](https://img.shields.io/badge/👀-Watch_updates-00C2A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savetree-1/pravaah.ai)
+[![Fork](https://img.shields.io/badge/🍴-Fork_project-FFB400?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savetree-1/pravaah.ai/fork)
+[![Download](https://img.shields.io/badge/📥-Download_ZIP-FF6B35?style=for-the-badge&logo=download&logoColor=white)](https://github.com/savetree-1/pravaah.ai/archive/main.zip)
 
 ### 🎯 **Smart India Hackathon 2025 - Problem Statement Achievement**
 
