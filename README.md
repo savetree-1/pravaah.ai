@@ -314,12 +314,17 @@ docker-compose up --build
 <br>
 <i>Cloud Infrastructure & Deployment</i>
 </td>
+</td>
 <td align="center">
-<img src="https://img.shields.io/badge/Team-Collaboration-gradient?style=for-the-badge&logo=team&logoColor=white"/>
-<br><br>
-<b>🤝 Collaborative Excellence</b>
+<img src="https://github.com/savetree-1.png" width="120px" style="border-radius: 50%"/>
 <br>
-<i>5 talented individuals<br>working together to revolutionize<br>document automation</i>
+<img src="https://img.shields.io/badge/Ankush_Rawat-AI_Engineer-00C2A8?style=for-the-badge&logo=github"/>
+<br>
+<a href="https://github.com/savetree-1">
+<img src="https://img.shields.io/badge/@savetree--1-100000?style=social&logo=github"/>
+</a>
+<br>
+<i>Full-stack Developer & System Architect</i>
 </td>
 </tr>
 </table>
