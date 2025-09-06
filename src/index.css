@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent: #00C2A8;
+  --glow: rgba(0,194,168,0.12);
+  --bg: #071028;
+  --panel: #0E1A2B;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: var(--bg);
+  color: white;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+/* Premium card styling */
+.card {
+  background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 12px;
+  backdrop-filter: blur(6px);
+  box-shadow: 0 8px 30px rgba(2,6,23,0.6);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent);
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 48px rgba(2,6,23,0.75), 0 0 30px var(--glow);
+  border-color: rgba(0,194,168,0.2);
+}
+
+/* Shard effects */
+.shard {
+  position: absolute;
+  width: 120px;
+  height: 24px;
+  background: linear-gradient(90deg, rgba(255,255,255,0.06), rgba(255,255,255,0.02));
+  filter: blur(6px);
+  opacity: 0.25;
+  transform: rotate(-12deg);
+  animation: float 6s ease-in-out infinite;
+}
+
+.shard-1 {
+  top: 10%;
+  left: 5%;
+  animation-delay: 0s;
+}
+
+.shard-2 {
+  bottom: 20%;
+  right: 10%;
+  animation-delay: 2s;
+}
+
+/* Button styles */
+.btn-primary {
+  @apply px-4 py-2 bg-accent text-white rounded-lg font-medium transition-all duration-200 hover:bg-accent/90 hover:shadow-glow-accent;
+}
+
+.btn-ghost {
+  @apply px-4 py-2 text-muted hover:text-white rounded-lg font-medium transition-all duration-200 hover:bg-white/5;
+}
+
+.btn-secondary {
+  @apply px-4 py-2 bg-panel border border-white/10 text-white rounded-lg font-medium transition-all duration-200 hover:border-accent/30 hover:bg-accent/5;
+}
+
+/* Glow effects */
+.glow-ring {
+  position: relative;
+}
+
+.glow-ring::after {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  border-radius: inherit;
+  background: linear-gradient(45deg, var(--accent), transparent, var(--accent));
+  opacity: 0;
+  z-index: -1;
+  transition: opacity 0.3s ease;
+}
+
+.glow-ring:hover::after {
+  opacity: 0.3;
+}
+
+/* Shimmer loading effect */
+.shimmer {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(90deg, #0E1A2B 25%, #1a2b42 50%, #0E1A2B 75%);
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--panel);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #00a693;
+}
+
+/* Focus styles */
+.focus-ring {
+  @apply focus:outline-none focus:ring-2 focus:ring-accent focus:ring-offset-2 focus:ring-offset-bg;
+}
+
+/* File upload drag state */
+.drag-active {
+  @apply border-accent bg-accent/5;
+}
+
+.drag-active::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: radial-gradient(circle at center, rgba(0,194,168,0.1), transparent);
+}
+
+/* Priority indicators */
+.priority-high {
+  @apply border-l-4 border-red-500;
+}
+
+.priority-medium {
+  @apply border-l-4 border-accent2;
+}
+
+.priority-low {
+  @apply border-l-4 border-accent;
+}
+
+/* Status badges */
+.status-processing {
+  @apply bg-accent2/20 text-accent2 border border-accent2/30;
+}
+
+.status-completed {
+  @apply bg-accent/20 text-accent border border-accent/30;
+}
+
+.status-pending {
+  @apply bg-muted/20 text-muted border border-muted/30;
+}

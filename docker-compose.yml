@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  frontend:
+    build: .
+    ports:
+      - "3000:80"
+    environment:
+      - NODE_ENV=production
+    networks:
+      - pravah-network
+
+  # Stub backend for development/demo
+  backend:
+    image: node:18-alpine
+    working_dir: /app
+    volumes:
+      - ./mock-backend:/app
+    ports:
+      - "8000:8000"
+    command: node server.js
+    environment:
+      - NODE_ENV=development
+    networks:
+      - pravah-network
+
+networks:
+  pravah-network:
+    driver: bridge
+
+volumes:
+  uploads:
+  documents:
