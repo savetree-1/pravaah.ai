@@ -1,11 +1,11 @@
-# 🚀📄 **Pravah.ai - KMRL Document Automation** 
+# 🚀📄 **Pravaah.ai - KMRL Document Automation** 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00C2A8&background=071028FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%9A%87+Smart+Document+Automation;%F0%9F%A4%96+AI-Powered+OCR+%26+Processing;%F0%9F%8F%86+Smart+India+Hackathon+2024!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00C2A8&background=071028FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%9A%87+Smart+Document+Automation;%F0%9F%A4%96+AI-Powered+OCR+%26+Processing;%F0%9F%8F%86+Smart+India+Hackathon+2025!)](https://git.io/typing-svg)
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-00C2A8?style=for-the-badge&logo=semver&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-MVP%20Complete-00FF88?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Hackathon](https://img.shields.io/badge/Smart%20India-Hackathon%202024-FFB400?style=for-the-badge&logo=trophy&logoColor=white)
+![Hackathon](https://img.shields.io/badge/Smart%20India-Hackathon%202025-FFB400?style=for-the-badge&logo=trophy&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-9932CC?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 </div>
@@ -20,10 +20,10 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=pravah-ai&color=brightgreen&style=for-the-badge&label=Repository+Views)
-![GitHub Stars](https://img.shields.io/github/stars/your-username/pravah-ai?style=for-the-badge&logo=star&color=FFD700)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/pravah-ai?style=for-the-badge&logo=git&color=32CD32)
-![GitHub Issues](https://img.shields.io/github/issues/your-username/pravah-ai?style=for-the-badge&logo=github&color=FF4500)
+![Profile Views](https://komarev.com/ghpvc/?username=pravaah.ai&color=brightgreen&style=for-the-badge&label=Repository+Views)
+![GitHub Stars](https://img.shields.io/github/stars/your-username/pravaah.ai?style=for-the-badge&logo=star&color=FFD700)
+![GitHub Forks](https://img.shields.io/github/forks/your-username/pravaah.ai?style=for-the-badge&logo=git&color=32CD32)
+![GitHub Issues](https://img.shields.io/github/issues/your-username/pravaah.ai?style=for-the-badge&logo=github&color=FF4500)
 
 <table>
 <tr>
@@ -90,10 +90,10 @@ KMRL operations desperately need:
 
 💡 Our Revolutionary Solution  
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Pravah.ai+Document+Engine;AI-Powered+Smart+Processing;Revolutionary+Workflow+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=pravaah.ai+Document+Engine;AI-Powered+Smart+Processing;Revolutionary+Workflow+Automation" />
 </div>
 
-Pravah.ai transforms document management through intelligent automation and AI-powered processing:
+pravaah.ai transforms document management through intelligent automation and AI-powered processing:
 
 <table>
 <tr>
@@ -157,7 +157,7 @@ Our solution directly addresses KMRL's document management challenges by providi
 <i>Advanced OCR with confidence scoring and quality control</i>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/🤖-AI_Summarization-FFB400?style=for-the-badge&labelColor=071028"/>
+<img src="https://img.shields.io/badge/🤖.ai_Summarization-FFB400?style=for-the-badge&labelColor=071028"/>
 <br><br>
 <b>Content Intelligence</b>
 <br>
@@ -282,7 +282,7 @@ docker-compose up --build
 <td align="center">
 <img src="https://avatars.githubusercontent.com/u/placeholder2" width="120px" style="border-radius: 50%"/>
 <br>
-<img src="https://img.shields.io/badge/Astha_KVT-AI_Engineer-FF6B35?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Astha_KVT.ai_Engineer-FF6B35?style=for-the-badge&logo=tensorflow"/>
 <br>
 <a href="#">
 <img src="https://img.shields.io/badge/@astha--kvt-100000?style=social&logo=github"/>
@@ -433,7 +433,7 @@ graph TD
 ## 🗂️ **Project Architecture**
 
 ```
-🚇 pravah-ai/
+🚇 pravaah.ai/
 ├── 🎨 src/
 │   ├── 🧩 components/          # Premium UI Components
 │   │   ├── ⚡ AppShell.tsx    # Main layout with animations
@@ -509,7 +509,7 @@ graph TD
 
 <div align="center">
 
-### 🎮 **For Judges & Evaluators - Smart India Hackathon 2024**
+### 🎮 **For Judges & Evaluators - Smart India Hackathon 2025**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=16&duration=2500&pause=500&color=00C2A8&center=true&vCenter=true&width=700&lines=1.+Launch+with+launcher.bat+or+npm+run+dev;2.+Open+localhost:3000+in+browser;3.+Upload+sample+document+(drag+%26+drop);4.+Watch+AI+processing+%26+summarization;5.+Explore+dashboard+%26+search+features!" />
 
@@ -547,11 +547,11 @@ graph TD
 
 ---
 
-## 🏆 **Smart India Hackathon 2024 Submission**
+## 🏆 **Smart India Hackathon 2025 Submission**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏆-Smart_India_Hackathon_2024-FFD700?style=for-the-badge&logo=trophy&logoColor=black"/>
+<img src="https://img.shields.io/badge/🏆-Smart_India_Hackathon_2025-FFD700?style=for-the-badge&logo=trophy&logoColor=black"/>
 <img src="https://img.shields.io/badge/🎯-KMRL_Document_Automation-00C2A8?style=for-the-badge&logo=target&logoColor=white"/>
 <img src="https://img.shields.io/badge/✅-MVP_Production_Ready-00FF88?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
@@ -654,7 +654,7 @@ graph TD
 <td align="center">
 <img src="https://img.shields.io/badge/📧-Team_Email-00C2A8?style=for-the-badge&logo=gmail&logoColor=white"/>
 <br>
-<a href="mailto:team@pravah.ai">team@pravah.ai</a>
+<a href="mailto:team@pravaah.ai">team@pravaah.ai</a>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/🌐-Live_Demo-FFB400?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -709,7 +709,7 @@ graph TD
 </ul>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🤖-AI_Intelligence-gradient?style=for-the-badge&logo=brain&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤖.ai_Intelligence-gradient?style=for-the-badge&logo=brain&logoColor=white"/>
 <br><br>
 <b>🧠 OCR & Summarization</b>
 <ul>
@@ -1066,16 +1066,16 @@ Events:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,26,30&height=200&section=footer&text=Built%20with%20❤️%20for%20Smart%20India%20Hackathon%202024&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,26,30&height=200&section=footer&text=Built%20with%20❤️%20for%20Smart%20India%20Hackathon%202025&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=18&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=800&lines=Revolutionizing+KMRL+Document+Management;Through+Intelligent+AI-Powered+Automation;%F0%9F%9A%87+%E2%9A%A1+%F0%9F%93%84+Together+We+Build+Smarter!+%F0%9F%93%84+%E2%9A%A1+%F0%9F%9A%87" />
 
-[![GitHub](https://img.shields.io/badge/⭐-Star_this_repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/your-username/pravah-ai)
-[![Watch](https://img.shields.io/badge/👀-Watch_updates-00C2A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/pravah-ai)
-[![Fork](https://img.shields.io/badge/🍴-Fork_project-FFB400?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/pravah-ai/fork)
-[![Download](https://img.shields.io/badge/📥-Download_ZIP-FF6B35?style=for-the-badge&logo=download&logoColor=white)](https://github.com/your-username/pravah-ai/archive/main.zip)
+[![GitHub](https://img.shields.io/badge/⭐-Star_this_repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/your-username/pravaah.ai)
+[![Watch](https://img.shields.io/badge/👀-Watch_updates-00C2A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/pravaah.ai)
+[![Fork](https://img.shields.io/badge/🍴-Fork_project-FFB400?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/pravaah.ai/fork)
+[![Download](https://img.shields.io/badge/📥-Download_ZIP-FF6B35?style=for-the-badge&logo=download&logoColor=white)](https://github.com/your-username/pravaah.ai/archive/main.zip)
 
-### 🎯 **Smart India Hackathon 2024 - Problem Statement Achievement**
+### 🎯 **Smart India Hackathon 2025 - Problem Statement Achievement**
 
 <table align="center">
 <tr>
@@ -1104,6 +1104,6 @@ Events:
 
 ---
 
-**🌟 Thank you for exploring Pravah.ai - The future of intelligent document automation is here! 🌟**
+**🌟 Thank you for exploring pravaah.ai - The future of intelligent document automation is here! 🌟**
 
 </div>
